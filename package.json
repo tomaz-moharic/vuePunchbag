@@ -1,0 +1,22 @@
+{
+  "name": "vuepunchbag",
+  "version": "1.0.0",
+  "description": "yay im learning this stuff...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomaz-moharic/vuePunchbag.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomaz-moharic/vuePunchbag/issues"
+  },
+  "homepage": "https://github.com/tomaz-moharic/vuePunchbag#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
+}
