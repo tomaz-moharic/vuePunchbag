@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/tomaz-moharic/vuePunchbag#readme",
   "dependencies": {
-    "vue": "^2.6.11"
+    "vue": "^3.0.0"
   }
 }
